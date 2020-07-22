@@ -1,0 +1,164 @@
+body {
+    margin: 20;
+    text-align: center;
+    width: 100%;
+}
+.nav {
+    position: fixed;
+    width: 100vw;
+    background-color: #e3f6f5;
+    height: 50px;
+}
+li {
+    list-style-type: none;
+    margin: 0 2vw;
+  font-size: 3vh;
+  text-align: right;
+}
+
+ul{
+    position: absolute;
+    left: 70%;
+    margin: 0;
+    padding: 0;
+    padding-top: 10px;
+    display: flex;
+    font-family: 'Poppins', sans-serif;
+  }
+.name {
+    font-size: 60px;
+    font-family: 'Great Vibes', cursive;
+    margin-bottom: 0;
+    width: 100%;
+}
+.title {
+    position: relative;
+    font-family: 'Ubuntu Mono', monospace;
+    padding-bottom: 0px;
+    font-size: 1.2rem;
+}
+.top-container {
+    background-color: #e3f6f5;
+    padding: 10px;
+    width: 100%;
+}
+.bottom-container{
+    background-color: #e3f6f5;
+    padding-bottom: 20px;
+    margin-right:0 ;
+    width: 100%;
+    padding-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}
+.middle-container {
+    padding-bottom: 50px;
+    width: 100%;
+}
+body {
+    margin: 0px;
+}
+.heading {
+    font-family: cursive;
+    margin-top: 0px;
+    position: relative;
+}
+.background {
+    
+    position: relative;
+    height: 500px;
+    width: 500px;
+}
+.skill-row {
+    padding: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.profile-photo {
+    height: 200px;
+    padding: 100px;
+    padding-bottom: 40px;
+}
+.css-skill {
+    height: 100px;
+    padding: 30px;
+}
+.github-skill {
+    height: 100px;
+    padding: 30px;
+}
+.html-skill {
+    height: 100px;
+    padding: 30px;
+}
+.js-skill {
+    height: 100px;
+    padding: 30px;
+}
+.sql-skill {
+    height: 100px;
+    padding: 30px;
+}
+.php-skill {
+    height: 100px;
+    padding: 30px;
+}
+.python-skill {
+    height: 100px;
+    padding: 30px;
+}
+.greeting {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+}
+.desc {
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 50px;
+    line-height: 2;
+}
+hr {
+    border-style: dotted none none;
+    border-color: #1b1b2f;
+    border-width: 5px;
+    width: 3%;
+    padding-top: 40px;
+}
+.skill-head {
+    padding: 50px auto 10px auto;
+    font-size: 50px;
+    font-family: 'Montserrat', sans-ser
+    
+}
+.get-in {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    padding-top: 0px;
+}
+.mail {
+    font-family: 'Poppins', sans-serif;
+}
+.contact-add {
+    font-family: 'Poppins', sans-serif;
+}
+.btn {
+    font-family: 'Poppins', sans-serif;
+}
+.footer-link {
+    padding-right: 20px;
+}
+.span {
+    text-decoration-color: #66BFBF;
+}
+a {
+    color: #66BFBF;
+}
+.button {
+    background-color: #66BFBF;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+  }
